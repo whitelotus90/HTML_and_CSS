@@ -1,0 +1,33 @@
+.crveniParagraf{
+    color: red;
+}
+.desnoPoravnanje{
+    text-align: right;
+}
+h3, h4{
+    color: orange;
+}
+.drugiParagraf, #treciParagraf{
+    background-color: yellow;
+}
+li{
+    color: green;
+}
+.kurs{
+    color: blue;
+}
+#js{
+    color: blueviolet;
+}
+div p{
+    text-decoration: underline;
+}
+div .podparagraf{
+    font-weight: bold;
+}
+#divizija > p{
+    font-family: courier;
+}
+ol li:nth-child(3){
+    font-style: italic;
+}

@@ -1,0 +1,25 @@
+h2{
+    text-align: center;
+    color: indigo;
+}
+img{
+    border: double;
+    color: rgb(196, 32, 196);
+}
+body{
+    background-color: rosybrown;
+}
+.prvitreci{
+    color: saddlebrown;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+}
+#drugip{
+    color:rgb(114, 29, 29);
+}
+a{
+    color: red;
+}
+a:hover{
+    color: green;
+}
