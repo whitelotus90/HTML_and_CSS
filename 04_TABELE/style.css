@@ -1,0 +1,20 @@
+#tabela1, #tabela1 td, #tabela2, #tabela2 td, #tabela2 th{
+    border: 1px solid;
+    text-align: left;
+    font-size: 15px;
+}
+#obojeno, .ob{
+    background-color: yellow;
+}
+#tabela1 th{
+    border: 1px solid;
+}
+#tabela1 tr:nth-child(odd){
+    font-style: italic;
+}
+#tabela2 tr:nth-child(even):hover{
+    background-color:yellow;
+}
+#tabela2 tr:nth-child(3){
+    color: blue;
+}
